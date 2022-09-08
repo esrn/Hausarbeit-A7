@@ -1,1 +1,1 @@
-void generator(int amp, int frequenz, int zp);
+void generator(int amp, int frequenz, int zp, FILE *output_stream);
