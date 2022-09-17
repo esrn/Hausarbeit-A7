@@ -1,2 +1,1 @@
-Dies ist die Readme-Datei.
-
+Dieses Programm dient zur Ausgabe der Funktionswerte einer Rechteckspannung. Nutzen Sie die Option '-h', für Hilfe, oder '-e', für die Eingabe der benötigten Parameter. Die Funktionswerte werden in der Datei: output_stream.txt gespeichert,
